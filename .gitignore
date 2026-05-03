@@ -1,0 +1,26 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.cxx/
+.kotlin/
+gen/
+out/
+**/release/
+**/debug/
+.externalNativeBuild/
+.DS_Store
+
+# Local dev artifacts (not part of source)
+.claude/
+recovered/
+reports/
+*.apk
+*.aab
+*.enc
+*.showupbak
+*.png
+*.blob
+ui_dump*.xml
