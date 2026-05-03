@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.codekage.showup.v2"
+    namespace = "com.codekage.showup"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.codekage.showup.v2"
+        applicationId = "com.codekage.showup"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
